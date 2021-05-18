@@ -1,4 +1,7 @@
+import 'package:aplicacion_contador/src/pages/home_page.dart';
 import 'package:flutter/material.dart';
+
+import 'pages/home_page.dart';
 
 //nosotros escribimos
 class MyApp extends StatelessWidget {
@@ -6,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(context) {
     return MaterialApp(
       home: Center(
-        child: Text('Hola Mundo'),
+        child: HomePage(),
       ),
     );
   }
