@@ -1,16 +1,17 @@
 # aplicacion_contador
 
-A new Flutter project.
+## Aplicación Contador
+## Aplicación Números primos
+* La siguiente imagen muestra la página de la aplicación de numeros primos, en donde se pide un valor máximo en donde se buscaran los numeros primos 
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/42130200/129820129-02ae14c0-33ad-41ca-b45d-7c07758b67c7.png)
 
-This project is a starting point for a Flutter application.
+* con dos botones el primero que setea a un valor 0 y el otro que presenta un nuevo número primo en el rango establecido
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/42130200/129820259-7e15efca-67f4-4b2f-b2f8-7c18ef448455.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* La funcion que muestra el número primo es la siguiente
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/42130200/129820678-7a8333cd-340c-4e3f-8572-424977483496.png)
+
+* En donde *myMaxValueController.text*, es el valor tomado de **TextField**
